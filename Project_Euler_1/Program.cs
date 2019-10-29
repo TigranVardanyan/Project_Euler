@@ -15,7 +15,6 @@ namespace Project_Euler_1
                 }
             }
             Console.WriteLine(sum);
-
         }
     }
 }
